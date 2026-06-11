@@ -241,3 +241,4 @@ Data-Driven Strategy
 The dashboard enables businesses to move from manual reporting to real-time analytics.
 
 📷 Dashboard Screenshot:
+https://github.com/Namita-satpute/food-delivery-sales-analysis-dashboard/blob/main/OrderVista%20Food%20Delivery%20Insights.png
