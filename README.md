@@ -240,4 +240,4 @@ Data-Driven Strategy
 
 The dashboard enables businesses to move from manual reporting to real-time analytics.
 
-📷 Dashboard Screenshot
+📷 Dashboard Screenshot:
